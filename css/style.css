@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Sigmar&family=Ubuntu+Condensed&display=swap');body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(253, 252, 252);
+    font-family: 'Inter', sans-serif;
+}
+
+h1{
+    font-family: 'Sigmar', cursive;
+    text-align: center;
+    font-size: 260%;
+}
+
+button{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 135%;
+}
+
+#tema{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 130%;
+
+}
+
+#tenta0, #tenta1, #tenta2, #tenta3, #tenta4, #tenta5, #tenta6, #tenta7, #tenta8, #tenta9, #tenta10, #tenta11, #tenta12, #tenta13{
+    border-color: rgb(170, 130, 55);
+    height: 30px;
+    
+}
+
+#A, #B, #C, #D, #E, #F, #G, #H, #I, #J, #K, #L, #M, #N, #O, #P, #Q, #R, #S, #T, #U, #V, #W, #X, #Y, #Z, .traco{
+background-color: rgb(75, 75, 75);
+color: #fff;
+border: none;
+border-radius: 5px;
+}
+
